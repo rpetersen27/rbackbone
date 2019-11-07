@@ -4,8 +4,17 @@
   "description": "A repository with reactive backbone components",
   "main": "rbackbone.js",
   "author": "Richard Petersen <richard@planet-petersen.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
-    "eslint": "^6.6.0"
+    "eslint": "^6.6.0",
+    "eslint-plugin-jest": "^23.0.2",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "underscore": "^1.9.1"
   }
 }
