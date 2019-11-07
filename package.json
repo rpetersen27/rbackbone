@@ -1,0 +1,8 @@
+{
+  "name": "rbackbone",
+  "version": "prealpha",
+  "description": "A repository with reactive backbone components",
+  "main": "rbackbone.js",
+  "author": "Richard Petersen <richard@planet-petersen.de>",
+  "license": "MIT"
+}
