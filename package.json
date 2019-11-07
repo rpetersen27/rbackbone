@@ -5,4 +5,7 @@
   "main": "rbackbone.js",
   "author": "Richard Petersen <richard@planet-petersen.de>",
   "license": "MIT"
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
 }
